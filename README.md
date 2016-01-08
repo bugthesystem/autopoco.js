@@ -47,6 +47,7 @@ for (var i=0; i<userList.length; i++) {
 
 ```
 
+**Browser**
 ```js
 var fixture = autopoco()
 
