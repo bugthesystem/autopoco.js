@@ -11,8 +11,8 @@ fixture.define('UserModel', {
 });
 
 
-let userModels = fixture.for('UserModel').createMany();
+let userModels = fixture.for('UserModel').createMany(3);
 
-for (let usermodel of userModels) {
-    console.log(JSON.stringify(usermodel));
+for (let model of userModels) {
+    console.log(JSON.stringify(model));
 }
