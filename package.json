@@ -4,6 +4,7 @@
   "description": "Create test data",
   "main": "index.js",
   "scripts": {
+    "srtart": "node ./node_modules/babel-cli/bin/babel-node.js ./sample/sample.js",
     "test": "node ./node_modules/babel-cli/bin/babel-node.js ./node_modules/mocha/bin/_mocha tests/",
     "test-cov": "node ./node_modules/babel-cli/bin/babel-node.js ./node_modules/isparta/bin/isparta cover --report text --report html ./node_modules/mocha/bin/_mocha  -- --reporter dot tests/"
   },
