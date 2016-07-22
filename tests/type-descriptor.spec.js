@@ -1,17 +1,17 @@
-import chai from "chai";
-import sinon from "sinon";
-import TypeDescriptor from "../lib/type-descriptor";
+import chai from 'chai';
+import sinon from 'sinon';
+import TypeDescriptor from '../lib/type-descriptor';
 
 chai.should();
 
-describe("TypeDescriptor", () => {
+describe('TypeDescriptor', () => {
     let typeDescriptor;
-    describe("#ctor", () => {
+    describe('#ctor', () => {
         beforeEach(() => {
             typeDescriptor = new TypeDescriptor();
         });
 
-        it("should exists", () => {
+        it('should exists', () => {
             (!!typeDescriptor).should.equal(true);
         });
 
