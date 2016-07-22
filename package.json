@@ -1,8 +1,8 @@
 {
   "name": "autopoco.js",
-  "version": "1.0.0",
-  "description": "Create test data",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description":"Test data creator",
+  "main": "dist/autopoco.js",
   "scripts": {
     "srtart": "node ./node_modules/babel-cli/bin/babel-node.js ./sample/sample.js",
     "test": "node ./node_modules/babel-cli/bin/babel-node.js ./node_modules/mocha/bin/_mocha tests/",
