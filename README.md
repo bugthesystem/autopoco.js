@@ -1,9 +1,11 @@
 # autopoco.js
-autopoco.js
 
+**Install**
 
-Preview
-=============
+```sh
+npm install autopoco.js
+```
+
 **ES6**
 ```js
 import autopoco from 'autopoco.js'
