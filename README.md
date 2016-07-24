@@ -1,6 +1,6 @@
 # autopoco.js
 
-[![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js)
+[![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js) [![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js)
 
 **Install**
 
