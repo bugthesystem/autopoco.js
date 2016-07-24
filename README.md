@@ -1,6 +1,6 @@
 # autopoco.js
 
-[![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js) [![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js)
+[![Build Status](https://travis-ci.org/ziyasal/autopoco.js.svg?branch=master)](https://travis-ci.org/ziyasal/autopoco.js) [![Coverage Status](https://coveralls.io/repos/github/ziyasal/autopoco.js/badge.svg?branch=master)](https://coveralls.io/github/ziyasal/autopoco.js?branch=master)
 
 **Install**
 
