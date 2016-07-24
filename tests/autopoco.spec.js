@@ -1,6 +1,6 @@
 import chai from 'chai';
 import sinon from 'sinon';
-import AutoPoco from '../lib/autopoco';
+import AutoPoco from '../src/autopoco';
 
 chai.should();
 

@@ -30,7 +30,8 @@ for (let user of userList) {
 
 **CommonJS**
 ```js
-var fixture = require('autopoco.js')()
+const autopoco = require('autopoco.js')
+const fixture = autopoco.default()
 
 fixture.define('UserModel', {
     name:     fixture.fakes.String,

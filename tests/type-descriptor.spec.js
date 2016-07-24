@@ -1,6 +1,6 @@
 import chai from 'chai';
 import sinon from 'sinon';
-import TypeDescriptor from '../lib/type-descriptor';
+import TypeDescriptor from '../src/type-descriptor';
 
 chai.should();
 

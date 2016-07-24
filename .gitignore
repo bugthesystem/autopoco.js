@@ -16,4 +16,4 @@ npm-debug.log
 .idea/
 node_modules/
 coverage/
-dist/
+lib/
