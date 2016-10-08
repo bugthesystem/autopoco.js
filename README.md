@@ -76,7 +76,7 @@ for (var i=0; i<userList.length; i++) {
 {
     "name": "2b463ab5-f790-4da6-986b-24779a5a8b5d",
     "lastName": "7c261e1f-9d68-4b0f-9040-679c0755197e",
-    "age": 93986,
+    "age": 26,
     "email": "Kobe.Weimann69@hotmail.com",
     "phone": "766-244-0145"
 }
